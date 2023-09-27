@@ -18,7 +18,10 @@ Programación:
 El estudiante en el desarrollo de su programación deberá tener las siguientes consideraciones:
 
 • La secuencia de encendido es rojo, naranja y verde
+
 • Los tiempos de estado HIGH debe ser 3 s, 1 s, 1,5 s, respectivamente.
+
 • Los tiempos de espera deben ser de 100 ms
+
 • La secuencia debe reproducirse de forma infinita.
 
